@@ -1,4 +1,4 @@
-function inputGroup( {label, value, onChange} ){
+function InputGroup( {label, value, onChange} ){
     return (
         <div className="input-row">
             <label>{label}</label>
