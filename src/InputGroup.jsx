@@ -6,3 +6,4 @@ function InputGroup( {label, value, onChange} ){
         </div>
     )
 }
+export default InputGroup;
